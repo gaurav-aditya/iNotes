@@ -1,6 +1,6 @@
 # iNotes
 The application will be accessible at http://localhost:3307
-iNotes is a website where you can make your own to do list.
+<b>iNotes is a website where you can make your own to do list.<b>
 iNotes is a web application that allows users to create and manage their own to-do lists. It provides a user-friendly interface to organize tasks, set priorities, and track progress, helping individuals stay organized and increase productivity.
 
 Features
