@@ -27,4 +27,8 @@ Overview</h2>
 <h2>Usage</h2>
 <b>Open a web browser and navigate to the application URL.
 If you are a new user, click on the "Register" button to create an account. Provide your email address and choose a secure password.
-If you already have an account, click on the "Login" .button</b>
+If you already have an account, click on the "Login" button.</b>
+
+<h2> Demo </h2>
+![image](https://github.com/gaurav-aditya/iNotes/assets/110540811/a8231720-17a0-4bdf-a96b-e25eaee1bbae)
+
