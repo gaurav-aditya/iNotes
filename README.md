@@ -32,3 +32,4 @@ If you already have an account, click on the "Login" button.</b>
 <h2> Demo </h2>
 ![image](https://github.com/gaurav-aditya/iNotes/assets/110540811/a8231720-17a0-4bdf-a96b-e25eaee1bbae)
 
+[![Stargazers repo roster for @gaurav-aditya/iNotes](https://reporoster.com/stars/gaurav-aditya/iNotes)](https://github.com/gaurav-aditya/iNotes/stargazers)
